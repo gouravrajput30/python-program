@@ -5,6 +5,7 @@ def greet_morning(name):
 def greet_evening(name):
     return f"Good Morning, {name}"
 def greet_night(name):
+
     return f"Good Night, {name}"
 def legend(name):
     return f"JAM KE PADHAI KAR {name} BETA ji !!!"
